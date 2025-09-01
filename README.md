@@ -1,5 +1,8 @@
 ## Hi there Shailesh 👋
 
+My Skills:
+Javascript || Software Developer
+
 <!--
 **Shaileshgole23/Shaileshgole23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
